@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[Lynda.com](https://www.lynda.com/)是成体系、高质量的学习资源。`lynda课程精华`的初衷是为知识的梳理、备忘和传播。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+参与此项目:
+{% include icon-github.html username="caozilu" %} /
+[lynda课程精华](https://github.com/caozilu/caozilu.github.io)

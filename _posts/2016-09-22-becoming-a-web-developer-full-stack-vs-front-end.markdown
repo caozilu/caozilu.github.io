@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "成为Web开发工程师：全栈或前端"
+date:   2016-09-22
+categories: lynda course guide
+---
+![becoming-a-web-developer-full-stack-vs-front-end]({{site.baseurl}}/images/becoming-a-web-developer-full-stack-vs-front-end.jpg)
+
+[Becoming a Web Developer: Full Stack vs Front End](https://www.lynda.com/Web-tutorials/Becoming-Web-Developer-Full-Stack-vs-Front-End/483022-2.html)
+
+# 简介
+
+随着互联网的发展，作为信息的载体，每天有成千上万张网页被网民消费。Web开发工程师便是制作这些网页的群体。
+
+# 入行
+
+现如今，web开发的分工体系演化出前端工程师（负责网页和应用的开发）、后端工程师（负责与服务器和数据库打交道）以及什么都会的全栈工程师。
+前端工程师将结构化的数据（HTML）以一定的样式（CSS）和逻辑（JavaScript），展示在手机、平板、桌面电脑的浏览器（或类似浏览器的实现）中。后端工程师在服务器上动态生成（PHP、Java、Node.js、Ruby、.NET、Python等）前端所需要的资源或数据，并将数据的变动存储到数据库。
+
+# 学习与培训
+
+Web开发技术日新月异。与其追赶新潮，不如巩固基础，再求随机应变。目前，大部分web开发者都是自学而成。尽管web开发技能可以通过自学或是参加IT培训习得，但加入创业公司或大型互联网公司参与项目开发与协作是更加行之有效的方法。
+
+Web开发工具繁多。除了常见的编辑器、命令行、浏览器，还有版本管理（通常为Git）、项目构建甚至数据库管理工具。此外，各类代码库、框架、衍生工具、理念，新的开发语言及旧语言的迭代令开发者应接不暇。许多公司还要求开发者在UI和UX方面有所擅长，并且能快速参与到项目管理中去。一套完善的现代web开发流程仍然在不断演进之中。
+
+# 找一份工作
+
+Stack Overflow调查显示，美国全栈工程师年薪中位数为10万美元，前端工程师为9.7万美元，后端工程师为10.8万美元。来自100offer的数据显示，中国前端工程师的平均面邀年薪为26.8万元，Java工程师为28.6万元，Node.js工程师为30.4万元。
+
+可以快速获知结果的求职方法是请目标公司的员工作内部推荐。此外，还可以通过人际网络或社交媒体主动与目标公司人员联络或结交业内人士。

@@ -13,7 +13,7 @@ layout: default
   </div>
 
 </article>
-<div id="ds-thread" class="ds-thread" data-url="{{ page.url }}" data-title="{{ page.title }}" data-thread-key="{{ page.title }}"></div>
+<div id="ds-thread" class="ds-thread" data-url="{{ site.url }}{{ page.url | remove:'index.html' }}" data-title="{{ page.title }}" data-thread-key="{{ page.url | remove:'index.html' }}"></div>
 <script type="text/javascript">
     var duoshuoQuery = {
         short_name: 'caozilu-github-io'

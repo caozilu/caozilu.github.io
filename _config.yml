@@ -9,6 +9,7 @@
 title: lynda课程精华
 email: caozilu@outlook.com
 description: "Happiness is something people yearn for. When they have it, they've refined it, so they can keep searching."
+license: "Licensed under a Creative Commons Attribution 4.0 International license."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 

@@ -3,9 +3,12 @@ layout: post
 title:  "成为Web开发工程师：全栈或前端"
 date:   2016-09-22
 ---
-![becoming-a-web-developer-full-stack-vs-front-end]({{site.baseurl}}/images/9d30f6857adb0849af032c4d0ad255ba.jpeg)
+![becoming-a-web-developer-full-stack-vs-front-end](/images/9d30f6857adb0849af032c4d0ad255ba.jpeg)
 
 [Becoming a Web Developer: Full Stack vs Front End](https://www.lynda.com/Web-tutorials/Becoming-Web-Developer-Full-Stack-vs-Front-End/483022-2.html)
+
+* table of contents
+{:toc}
 
 # 简介
 
